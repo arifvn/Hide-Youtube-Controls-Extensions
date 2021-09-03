@@ -2,7 +2,7 @@
 
 🌳 Very simple Chrome Extensions to hide Youtube Control. Press S to enable/disable
 
-- Download as zip
+- Download released version (zip)
 - Go to chrome://extensions/
 - Activate developer mode (on top right corner)
 - Load Unpacked (top left corner)
