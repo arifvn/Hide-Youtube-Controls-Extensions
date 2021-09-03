@@ -1,0 +1,23 @@
+{
+    "name": "Hide Youtube Controls",
+    "description": "Press S To Hide Youtube Controls",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "https://www.github.com/empun",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.youtube.com/*"
+            ],
+            "js": [
+                "index.js"
+            ]
+        }
+    ],
+    "icons": {
+        "16": "youtube1.png",
+        "32": "youtube2.png",
+        "48": "youtube3.png",
+        "128": "youtube4.png"
+    }
+}
