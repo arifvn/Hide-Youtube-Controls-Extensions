@@ -7,3 +7,5 @@
 - Activate developer mode (on top right corner)
 - Load Unpacked (top left corner)
 - Use the zip file
+
+Currently tested on Linux and MacOS. Windows may have different keymap for keyboard.
